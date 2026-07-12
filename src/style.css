@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Outfit", sans-serif;
+  --font-main: "Inter", sans-serif;
+
+  --color-background: #F8FAFC; /* Juda och kulrang, toza fon */
+  --color-main: #0F172A;       /* To'q slanets (Slate 900) - premium qora */
+  --color-semi-main: #64748B;  /* O'rta kulrang (Menyu elementlari uchun) */
+  --color-secondary: #2563EB;  /* Yorqin, zamonaviy ko'k (Hover va ikonka uchun) */
+}
